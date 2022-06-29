@@ -3,7 +3,83 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
 
 :root {
-    font-size: 32.5%;
     --font-text: 'Sriracha', cursive;
     --font-title: 'Passion One', cursive;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 2rem;
+    letter-spacing: .1rem;
+    box-sizing: border-box;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+    padding-block: 2rem;
+    background-color: black;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1rem;
+    font-weight: lighter;
+}
+
+h1, h2, a {
+    font-family: var(--font-title);
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+h2 span {
+    font-weight: bolder;
+}
+
+section {
+    width: 100%;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+}
+
+#second{
+    background: url('../_img/background001.jpg') no-repeat fixed right;
+    background-size: cover;
+}
+#fifth{
+    background: url('../_img/background002.jpg') no-repeat fixed;
+    background-size: cover;
+
+}
+#second p, #fifth p{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.42);
+
+}
+
+
+div{
+    padding: 2rem;
+    height: 100vh;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    flex-direction: column;
+}
+
+p {
+    padding-block: 2rem;
+    font-size: 1.2rem;
+    height: fit-content;
+    width: min(30rem, 100%);
+    font-family: var(--font-text);
 }
