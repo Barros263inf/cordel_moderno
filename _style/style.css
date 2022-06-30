@@ -15,7 +15,7 @@
     box-sizing: border-box;
 }
 
-header {
+header,footer {
     color: #fff;
     text-align: center;
     padding-block: 2rem;
@@ -39,6 +39,9 @@ h1, h2, a {
 a {
     color: #fff;
     text-decoration: none;
+}
+a:hover{
+    filter: grayscale(.5);
 }
 
 h2 span {
