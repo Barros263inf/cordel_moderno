@@ -57,12 +57,12 @@ section {
 }
 
 #second {
-    background: url('../_img/background001.jpg') no-repeat fixed right;
+    background: url('../img/background001.jpg') no-repeat fixed right;
     background-size: cover;
 }
 
 #fifth {
-    background: url('../_img/background002.jpg') no-repeat fixed;
+    background: url('../img/background002.jpg') no-repeat fixed;
     background-size: cover;
 
 }
