@@ -46,10 +46,11 @@ h2 span {
 }
 
 section {
-    width: 100%;
+    margin: auto;
     display: flex;
     align-items: left;
     flex-direction: column;
+    width: min(1300px,100%);
 }
 
 #second {
