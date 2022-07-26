@@ -1,32 +1,31 @@
+<div align="center">
+
 # 📖 Cordel_Moderno 📖 
-### Projeto proposto no curso de HTML e CSS do CursoemVideo
 
-A proposta deste projeto é criar uma pagina, que apresente um cordel
-<br>
+</div>
 
+### Projeto proposto no curso de HTML e CSS do CursoemVideo   
+
+<div align="justify">
+
+A proposta deste projeto é criar uma pagina, que apresente um cordel.
 O cordel foi originado em Portugal pelos trovadores medievais, que, nos séculos XII e XIII,
-<br>
-
 cantavam poemas, espalhando histórias para a população a qual, em sua grande maioria, não era letrada.
-<br>
-<br>
 
-## 🏁 O desáfio é criar uma pagina responsiva com o efeito paralax.
-dessa forma procurando desenvolver as habilidades com as propriedades background CSS
-<br>
-<br>
-
-### ⚙️Status: Working!⚙️
+</div>
 
 <br>
 
-### 🔗 Link do projeto [GitHub Pages](https://barros263inf.github.io/cordel_moderno/)🔗
-
+## 🏁 O desáfio é criar uma pagina responsiva com o efeito paralax. 🏁
+- Objetivo: procurando desenvolver as habilidades com as propriedades background CSS
+<br>
 <br>
 
-## 📄 Licença 📄
+📄 Licença [MIT](https://choosealicense.com/licenses/mit/) 📄
 
-[MIT](https://choosealicense.com/licenses/mit/)
+⚙️ Status: Working! ⚙️
+
+🔗 Link do projeto [GitHub Pages](https://barros263inf.github.io/cordel_moderno/)🔗
 
 <br>
 
