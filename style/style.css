@@ -45,6 +45,7 @@ a {
 
 a:hover {
     filter: grayscale(.5);
+    text-decoration: underline;
 }
 
 h2 span {
