@@ -4,7 +4,11 @@
 
 </div>
 
-### Projeto proposto no curso de HTML e CSS do CursoemVideo   
+<div align="center">
+
+### Projeto proposto no curso de HTML e CSS do CursoemVideo
+
+</div>
 
 <div align="justify">
 
@@ -15,6 +19,8 @@ cantavam poemas, espalhando histórias para a população a qual, em sua grande 
 </div>
 
 <br>
+
+---
 
 ## 🏁 O desáfio é criar uma pagina responsiva com o efeito paralax. 🏁
 - Objetivo: procurando desenvolver as habilidades com as propriedades background CSS
@@ -29,6 +35,12 @@ cantavam poemas, espalhando histórias para a população a qual, em sua grande 
 
 <br>
 
+---
+
+<div align="center">
+
 ## 🤘 Sobre mim 🎸 
 Desenvolvendo nas horas livres...
 [@Barros263inf](https://www.github.com/Barros263inf)
+
+</div>
